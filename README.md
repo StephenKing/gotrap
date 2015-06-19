@@ -93,7 +93,7 @@ Usage of ./gotrap:
 ```
 
 `-config` is a required setting.
-Without a configuration file *gotrap* won`t start.
+Without a configuration file *gotrap* won't start.
 Please have a look at the [Configuration](#configuration) chapter how to configure *gotrap* properly.
 
 `-pidfile` will wrote the process id of the running *gotrap* process into the given file.
